@@ -5,3 +5,4 @@ streamlit-webrtc
 deepface
 opencv-python
 av
+tensorflow==2.15.0
